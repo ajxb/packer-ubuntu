@@ -10,7 +10,7 @@
   "memory": "1024",
   "preseed": "ubuntu-1604.seed",
   "vagrantfile_template": "tpl/vagrantfile-ubuntu-1604.tpl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "version_description": "Ubuntu 16.04 LTS (Xenial Xerus) with VirtualBox Guest Additions",
   "vm_name": "ubuntu-1604"
 }
