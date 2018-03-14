@@ -1,4 +1,4 @@
-# Packer templates for Mint Cinnamon
+# Packer templates for Ubuntu Server
 
 ## Overview
 
